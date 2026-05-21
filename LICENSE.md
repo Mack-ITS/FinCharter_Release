@@ -7,7 +7,12 @@ Licensed Work:       FinCharter (including all source code, assets, and build co
 The Licensed Work is (c) 2026 Thomas Lothridge
 
 Additional Use Grant:
-You are permitted to copy, modify, create derivative works of, and compile the Licensed Work strictly for personal, non-commercial, and non-production testing use. You are expressly forbidden from redistributing, repackaging, or publishing compiled binaries of the Licensed Work to any app marketplace, store, or digital platform (including but not limited to the Microsoft Store, Apple App Store, Google Play Store, or Steam) without explicit written consent from the Licensor.
+The Licensor hereby grants the right to copy, modify, create derivative works of, and compile the Licensed Work strictly for personal, non-commercial use. 
+
+Production use and distribution of pre-compiled binaries of the Licensed Work are strictly restricted to the Licensor. Any redistribution, repackaging, or publishing of compiled versions of this Software on public marketplaces (including the Microsoft Store) requires a separate Commercial Production License from the Licensor. 
+
+Purchasing the pre-compiled application via the official Microsoft Store grants the individual buyer a perpetual, non-exclusive license to run the pre-compiled binary on their personal machines.
+
 
 Change Date:        May 20th, 2030
 
